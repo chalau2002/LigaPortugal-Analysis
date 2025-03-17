@@ -28,3 +28,21 @@ A surprising underperformance in this metric comes from Sporting de Braga, Casa 
 On the other hand, teams at the bottom of the table, such as AVS and SC Farense, have some of the lowest percentages of secured matches, which could reflect difficulties in maintaining positive results at home.
 
 Thus, while there is a tendency for stronger teams to be more effective at holding leads, this factor alone is not the sole determinant of their success in the standings.
+
+# Best Teams making comebacks on the seccond half
+![image](https://github.com/user-attachments/assets/2e7445dc-e786-43da-b129-981870722e53)
+
+# Analysis of Teams That Managed to Turn Around Matches in the Second Half After Trailing at Halftime
+So far in the league, only a few teams have been able to come back from a halftime deficit and secure a victory by the end of the match. This highlights the difficulty of overturning a losing position, emphasizing the importance of having an early advantage in football.
+
+However, some teams stand out in this metric, with Sporting de Braga being the most effective at making comebacks, successfully overturning halftime deficits in around 33% of cases. Sporting CP and Casa Pia AC also demonstrate notable performances in this statistic, showcasing a strong ability to respond after a poor start.
+
+Other teams, such as CD Santa Clara, Moreirense FC, and CF Estrela da Amadora, have also managed to turn matches around, albeit less frequently. CF Estrela da Amadora, despite being in a lower league position, appears among the teams that have managed comebacks, indicating a fighting spirit even if their overall results are not as strong.
+
+On the other hand, most teams in the league do not appear in this list, reinforcing the fact that overturning a halftime deficit is a rare and challenging feat. The teams that manage to do so demonstrate not only strong mentality
+
+# Final League Table
+
+![image](https://github.com/user-attachments/assets/bbbab839-e0d9-43ce-bebe-f3e60d9c1660)
+
+
